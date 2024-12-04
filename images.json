@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Mountain View",
+    "description": "A breathtaking view of the mountains during sunrise.",
+    "url": "https://source.unsplash.com/random/800x600/?mountain"
+  },
+  {
+    "id": 2,
+    "title": "Serene Beach",
+    "description": "A calm and beautiful beach with turquoise waters.",
+    "url": "https://source.unsplash.com/random/800x600/?beach"
+  },
+  {
+    "id": 3,
+    "title": "City Skyline",
+    "description": "An urban skyline with skyscrapers at night.",
+    "url": "https://source.unsplash.com/random/800x600/?city"
+  },
+  {
+    "id": 4,
+    "title": "Forest Trail",
+    "description": "A peaceful forest trail covered in autumn leaves.",
+    "url": "https://source.unsplash.com/random/800x600/?forest"
+  },
+  {
+    "id": 5,
+    "title": "Desert Dunes",
+    "description": "Golden sand dunes in the middle of a vast desert.",
+    "url": "https://source.unsplash.com/random/800x600/?desert"
+  },
+  {
+    "id": 6,
+    "title": "Snowy Landscape",
+    "description": "A snowy landscape with pine trees and mountains.",
+    "url": "https://source.unsplash.com/random/800x600/?snow"
+  },
+  {
+    "id": 7,
+    "title": "Wildlife",
+    "description": "A close-up shot of a wild animal in its natural habitat.",
+    "url": "https://source.unsplash.com/random/800x600/?wildlife"
+  },
+  {
+    "id": 8,
+    "title": "Starry Night",
+    "description": "A mesmerizing view of the starry sky.",
+    "url": "https://source.unsplash.com/random/800x600/?stars"
+  },
+  {
+    "id": 9,
+    "title": "Waterfall",
+    "description": "A majestic waterfall surrounded by lush greenery.",
+    "url": "https://source.unsplash.com/random/800x600/?waterfall"
+  },
+  {
+    "id": 10,
+    "title": "Sunset Fields",
+    "description": "Golden fields basking in the warm glow of the sunset.",
+    "url": "https://source.unsplash.com/random/800x600/?sunset"
+  }
+]
